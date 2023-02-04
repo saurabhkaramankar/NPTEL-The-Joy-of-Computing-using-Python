@@ -24,7 +24,7 @@ A fun filled whirlwind tour of 30 hrs, covering everything you need to know to f
 - Motivation for Computing
 - Welcome to Programming!!
 - Variables and Expressions : Design your own calculator
-- Loops and Conditionals : Hopscotch once again
+- Loops and Conditionals : Hopscotch once again 
 - Lists, Tuples and Conditionals : Lets go on a trip
 - Abstraction Everywhere : Apps in your phone
 - Counting Candies : Crowd to the rescue
